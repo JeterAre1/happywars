@@ -1,0 +1,33 @@
+h1{
+text-decoration: underline;
+  font-size: 65px;
+  color: red;
+}
+
+
+
+
+.picture {
+    
+    display: inline-block;
+    margin: 10px;
+}
+
+.gallery img {
+    height: 150px;
+
+    border: 3px double black;
+}
+ .first{
+     height: 400px;
+     width:400px;
+}
+.gallery p {
+    text-align: center;
+    margin-top: 0;
+}
+body{
+    text-align:center;
+    background:url(https://www.happywars.net/wp-content/uploads/2015/03/Coral.jpg);
+    color:white;
+}
